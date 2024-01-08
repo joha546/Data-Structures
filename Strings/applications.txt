@@ -1,0 +1,39 @@
+  Applications of String:
+
+Plagiarism Checker: Strings can be used to find Plagiarism in codes, and contents in a very little amount of time using
+ string matching algorithms. Using this the computer could easily tell us the percentage of code, and text written 
+ by any two users matches by how much percent.
+Encoding/Decoding(Cipher Text Generation): Strings can be used for encoding and decoding for the safe transfer of 
+data from sender to receiver to make sure no one in the way of transmission gets to read your data as they could 
+perform both active and passive attacks. The text you transfer as a message gets ciphered at the sender’s end and 
+decoded at the receiver’s end.
+Information Retrieval: String applications help us to retrieve information from unknown data sources( large datasets
+ used as input) along with the help of string matching/retrieval module helps us to retrieve important information.
+Improved Filters For The Approximate Suffix-Prefix Overlap Problem: Strings and its algorithms applications help us
+ to provide improved Filters for the Approximate Suffix-Prefix Overlap Problem. The approximate suffix-prefix 
+ overlap problem is to find all pairs of strings from a given set such that a prefix of one string is similar to a 
+ suffix of the other.
+Network communication: Strings are used to encode and decode data sent over networks, such as HTTP requests and 
+responses.
+File handling: Strings are used to manipulate file paths and names, and to read and write files.
+Data analysis: Strings can be used to extract meaningful insights from large amounts of text data, such as natural 
+language processing and sentiment analysis.
+
+Memory Efficiency: Strings are usually stored in a contiguous block of memory, which makes them efficient to allocate
+ and deallocate. This means that they can be used to represent large amounts of data without taking up too much 
+ memory.
+
+Real-Time Application of String:
+
+Spam Detection: Strings can be used to serve as a spam detection system as the concept of string matching algorithm
+ will be applied here. Spam (unwanted emails) could cause great financial loss. All the spam filters use the concept
+  of string matching to identify and discard the spam.
+Bioinformatics: Strings can be used in the field of Bioinformatics( DNA sequencing). String matching module can be
+ used to solve issues or problems regarding genetic sequences and to find the patterns in DNA.
+Intrusion Detection System: Strings can be used in intrusion detection systems. Packets that contain intrusion 
+related keywords are found by applying string matching algorithms.
+Search Engines: Strings can be used in many search engine techniques. Most of the data are available on the internet
+in the form of textual data. Due to huge amount of uncategorized text data, it becomes really difficult to search
+a particular content. Web search engines organize the data and to categorize the data string matching algorithms
+are used.
+
