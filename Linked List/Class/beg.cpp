@@ -7,7 +7,7 @@ struct Node{
 };
 class LinkedList{
 private:
-    Node* head;     
+    Node* head;
 public:
     LinkedList():head(nullptr){}
     
